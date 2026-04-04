@@ -1,5 +1,16 @@
 # Smart House Prototype Controlled Via Java Based Application
 
+[![Python](https://img.shields.io/badge/Python-ML%20Models-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-Android%20App-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Android](https://img.shields.io/badge/Android-Mobile%20UI-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-Lite-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/lite)
+[![Google Speech API](https://img.shields.io/badge/Google%20Speech-Speech%20to%20Text-4285F4?logo=google&logoColor=white)](https://cloud.google.com/speech-to-text)
+[![Arduino](https://img.shields.io/badge/Arduino-IoT%20Control-00878A?logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-IDE-3DDC84?logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
+[![IoT](https://img.shields.io/badge/IoT-Home%20Automation-FF6B35?logoColor=white)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Status](https://img.shields.io/badge/Status-Prototype-yellow)]()
+
 ## Overview
 Welcome to the Smart House Prototype, an innovative bachelor's graduate project that demonstrates the future of home automation! This system showcases how to control a house using voice commands, leveraging embedded machine learning technology.
 
